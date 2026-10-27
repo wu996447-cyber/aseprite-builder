@@ -1,6 +1,6 @@
 name: Build and release Aseprite
 
-on:
+on: 
   push:
     branches:
       - main
